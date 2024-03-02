@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Cafe/static/css/main.9a9b3b59.css",
-    "main.js": "/Cafe/static/js/main.8829c8c4.js",
+    "main.css": "/Cafe/static/css/main.084e6367.css",
+    "main.js": "/Cafe/static/js/main.97fc1ee3.js",
     "static/js/289.df81d460.chunk.js": "/Cafe/static/js/289.df81d460.chunk.js",
     "static/media/cafeConLeche.png": "/Cafe/static/media/cafeConLeche.c41b22c39340af4e20ed.png",
     "static/media/superFrap.png": "/Cafe/static/media/superFrap.f3840b75cc250cc681a0.png",
     "static/media/cafeDalgona.png": "/Cafe/static/media/cafeDalgona.be62dbdaad2c1bc93067.png",
     "static/media/logoK.jpg": "/Cafe/static/media/logoK.cf3cf72476d7fb3cd167.jpg",
     "index.html": "/Cafe/index.html",
-    "main.9a9b3b59.css.map": "/Cafe/static/css/main.9a9b3b59.css.map",
-    "main.8829c8c4.js.map": "/Cafe/static/js/main.8829c8c4.js.map",
+    "main.084e6367.css.map": "/Cafe/static/css/main.084e6367.css.map",
+    "main.97fc1ee3.js.map": "/Cafe/static/js/main.97fc1ee3.js.map",
     "289.df81d460.chunk.js.map": "/Cafe/static/js/289.df81d460.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a9b3b59.css",
-    "static/js/main.8829c8c4.js"
+    "static/css/main.084e6367.css",
+    "static/js/main.97fc1ee3.js"
   ]
 }
