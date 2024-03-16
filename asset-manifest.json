@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Cafe/static/css/main.48470fbc.css",
-    "main.js": "/Cafe/static/js/main.f8f99562.js",
+    "main.css": "/Cafe/static/css/main.24e70536.css",
+    "main.js": "/Cafe/static/js/main.2c53c6c3.js",
     "static/js/289.df81d460.chunk.js": "/Cafe/static/js/289.df81d460.chunk.js",
-    "static/media/logoK.jpg": "/Cafe/static/media/logoK.cf3cf72476d7fb3cd167.jpg",
+    "static/media/Logo.png": "/Cafe/static/media/Logo.abc1eef0286e4201f111.png",
     "index.html": "/Cafe/index.html",
-    "main.48470fbc.css.map": "/Cafe/static/css/main.48470fbc.css.map",
-    "main.f8f99562.js.map": "/Cafe/static/js/main.f8f99562.js.map",
+    "main.24e70536.css.map": "/Cafe/static/css/main.24e70536.css.map",
+    "main.2c53c6c3.js.map": "/Cafe/static/js/main.2c53c6c3.js.map",
     "289.df81d460.chunk.js.map": "/Cafe/static/js/289.df81d460.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48470fbc.css",
-    "static/js/main.f8f99562.js"
+    "static/css/main.24e70536.css",
+    "static/js/main.2c53c6c3.js"
   ]
 }
